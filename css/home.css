@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+   
+}
+hr{
+    border: 1px solid black;
+}
+
+.val{
+    text-align: center;
+    
+}
+#currentMoney{
+    text-align: center;
+    font-size: 22px;
+    border: 1px solid black
+}
+
+.btn{
+    width: 150px;
+}
+#purchaseMessage{
+    height: 70px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+#makePurchase{
+    position: relative;
+    left: 18px;
+    height: 50px;
+    width: 90%;
+}
+#label{
+    font-size: 22px;
+}
+
+.change{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#returnChange{
+    margin-top: 20px;
+}
+#moneyChange{
+    height: 50px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+#itemId{
+    border: 1px solid black;
+}
+.card-deck{
+    margin-right: 5px;
+    width: 250px;
+}
+.card{
+    border: 1px solid black;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+#itemRows {
+    display: flex;
+    flex-wrap: wrap;
+  }
+#id{
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 5px;
+}
